@@ -1,0 +1,10 @@
+div{
+    width: 25%;
+    height: 300px;
+    border:gray 2px solid ;
+}
+body{
+    background-image:url(https://pixabay.com/images/search/nature/);
+background-size: cover;
+
+}

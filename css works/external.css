@@ -1,0 +1,12 @@
+h1{
+    color:black;
+}
+body{
+    background-color: cadetblue;
+}
+div{
+    background-color:maroon;
+    height: 300px;
+    width: 800px;
+    border: gold 2px solid  ;
+}

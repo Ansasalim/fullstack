@@ -1,0 +1,117 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin-top: 46px;
+   margin-left: 352px;
+}
+div{
+    height:100px;
+    width: 100px;
+}
+#b1{
+   background-color: brown; 
+   margin-top: 100px;
+   margin-left: 300px;
+}
+#b2{
+    background-color:greenyellow ;
+    margin-top:-99px;
+    margin-left: 413px;
+}
+#b3{
+    background-color: rgb(10, 185, 10);
+    margin-top: -99px;
+   margin-left: 524px;
+}
+#b4{
+    background-color: rgb(76, 160, 76);
+    margin-top: -99px;
+   margin-left: 638px;
+}
+#b5{
+    background-color:wheat;
+    margin-top: -99px;
+   margin-left: 750px;
+}
+.b6{
+    background-color: yellow;
+   margin-top: 35px;
+   margin-left: 200px;
+}
+.b7{
+    background-color: tomato;
+    margin-top: -99px;
+    margin-left: 312px;
+}
+.b8{
+    background-color:rgb(121, 137, 156) ;
+    margin-top: -99px;
+    margin-left: 425px;
+}
+.b9{
+    background-color:rgb(62, 106, 199) ;
+    margin-top: -99px;
+    margin-left: 537px;
+}
+.b10{
+    background-color:blue ;
+    margin-top: -99px;
+    margin-left: 648px;
+}
+.b11{
+    background-color:rgb(9, 85, 156) ;
+    margin-top: -99px;
+    margin-left: 758px;
+}
+.b12{
+    background-color:rgb(120, 124, 121) ;
+    margin-top: -99px;
+    margin-left: 867px;
+}
+#b13{
+    background-color:rgb(67, 74, 75);
+    margin-top: 38px;
+   margin-left: 53px;
+}
+#b14{
+    background-color:rgb(187, 187, 171);
+    margin-top: -100px;
+   margin-left: 165px;
+}
+#b15{
+    background-color:rgb(240, 199, 16);
+    margin-top: -100px;
+   margin-left: 279px;
+}
+#b16{
+    background-color:rgb(156, 106, 11);
+    margin-top: -100px;
+   margin-left: 392px;
+}
+#b17{
+    background-color:magenta;
+    margin-top: -100px;
+   margin-left: 503px;
+}
+.b18{
+    background-color:maroon ;
+    margin-top: -100px;
+    margin-left: 613px;
+}
+.b19{
+    background-color:rgb(84, 84, 185) ;
+    margin-top: -100px;
+    margin-left: 724px;
+}
+.b20{
+    background-color:rgb(48, 48, 78) ;
+    margin-top: -100px;
+    margin-left: 835px;
+}
+.b21{
+    background-color:tomato  ;
+    margin-top: -100px;
+    margin-left: 946px;
+}   
